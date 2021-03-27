@@ -1,0 +1,29 @@
+* {
+    font-family: cursive;
+    background-color: cadetblue;
+}
+/* Header */
+.tiptop{
+    margin: fixed;
+    border: 6px groove blue;
+    text-align: center;
+    font-size: 70px;
+    }
+    
+/* Body */
+.area1{
+    
+    margin: fixed;
+    border: 6px dotted lightblue;
+    text-align: center;
+    padding: 200px;
+
+    }
+    
+.area2{
+    margin: fixed;
+    border: 6px dotted blueviolet;
+    text-align: center;
+    padding: 200px;
+    
+    }
