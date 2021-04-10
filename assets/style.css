@@ -1,9 +1,10 @@
-.frame {
+body {
   background: url(./images/corkboard1.gif) no-repeat;
-  width: 800px;
-  height: 600px;
-  padding-top: 35px;
-  padding-left: 35px;
+  background-size: cover;
+}
+
+.frame {
+  padding: 50px;
 }
 
 div img {
