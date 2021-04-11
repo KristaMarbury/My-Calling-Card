@@ -58,7 +58,10 @@ div img {
 }
 
 .note .pin {
-  background: url(./images/pinforcorkboard.png);
+  background: url(./images/pinforcorkboard.png) no-repeat;
+  background-size: contain;
+  background-position: center;
+  height: 20px;
 }
 
 section.frame article:hover.note {
