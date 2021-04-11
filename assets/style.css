@@ -62,6 +62,7 @@ div img {
   background-size: contain;
   background-position: center;
   height: 20px;
+  border-radius: 90%;
 }
 
 section.frame article:hover.note {
