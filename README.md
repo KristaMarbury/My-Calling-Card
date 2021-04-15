@@ -4,6 +4,6 @@ Welcome to my portfolio website! This is a "living" website that I'll be editing
 I love using sticky notes whenever I'm working to be productive, and this is exactly like how one of my corkboards would look like. ;)
 
 Check it out here!
-https://kristamarbury.github.io/My-Calling-Card/ 
+https://kristamarbury.github.io/Portfolio/  
 
 ![Screen Shot 2021-04-15 at 1 16 18 PM](https://user-images.githubusercontent.com/78391731/114918504-c6516d80-9dec-11eb-9ac8-62debe804c9f.png)
