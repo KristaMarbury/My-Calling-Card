@@ -5,3 +5,5 @@ I love using sticky notes whenever I'm working to be productive, and this is exa
 
 Check it out here!
 https://kristamarbury.github.io/My-Calling-Card/ 
+
+![Screen Shot 2021-04-15 at 1 16 18 PM](https://user-images.githubusercontent.com/78391731/114918504-c6516d80-9dec-11eb-9ac8-62debe804c9f.png)
