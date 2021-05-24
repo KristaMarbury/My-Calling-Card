@@ -4,7 +4,23 @@ body {
 }
 
 .frame {
+  display: flex;
   padding: 50px;
+}
+
+.aboutme {
+  display: flex;
+ border: 1px solid #1A1A1A; 
+}
+
+.projects {
+  display: flex;
+ border: 1px solid #1A1A1A; 
+}
+
+.connections {
+  display: flex;
+ border: 1px solid #1A1A1A; 
 }
 
 div img {
@@ -26,6 +42,7 @@ div img {
 .text {
   margin: 10px;
   font-family: Indie Flower, cursive;
+  color: #1A1A1A;
 }
 
 .sticky0 {
