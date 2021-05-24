@@ -8,6 +8,20 @@ body {
   padding: 50px;
 }
 
+.header {
+  display: flex;
+  padding: 20px;
+  background-color: #2a607c;
+  color: #ffffff;
+}
+
+.header nav {
+  display: inline-block;
+  padding-top: 15px;
+  margin-right: 20px;
+  font-size: 20px;
+}
+
 .aboutme {
   display: flex;
  border: 1px solid #1A1A1A; 
@@ -18,7 +32,7 @@ body {
  border: 1px solid #1A1A1A; 
 }
 
-.connections {
+.connect {
   display: flex;
  border: 1px solid #1A1A1A; 
 }

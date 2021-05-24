@@ -12,7 +12,6 @@
         @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
     </style>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.2/css/bulma.min.css">
-    <link rel="stylesheet" href="assets/reset.css">
     <link rel="stylesheet" href="./assets/style.css" />
 
 </head>
@@ -22,11 +21,25 @@
 <body>
     <section class="frame">
 
+        <header>
         <!-- Nav Bar -->
-        <nav class="">  Who Dis? Work(with an e...)! Connect with Me!</nav>
+        <nav>
+            <ul>
+                <li>
+                    <a href="#who-dis">About Me</a>
+                </li>
+                <li>
+                    <a href="#who-dunnit">Projects!</a>
+                </li>
+                <li>
+                    <a href="#who-calls">Connect with Me</a>
+                </li>
+            </ul>
+        </nav>
+        </header>
 
         <!-- Sticky Notes About Me -->
-        <section class="aboutme">
+        <section id="who-dis" class="aboutme is-full">
         <article class="note sticky1">
             <div class="pin"></div>
             <div class="text">Hi! I'm K-Leigh
@@ -35,13 +48,13 @@
         </article>
         <article class="note sticky0">
             <div class="pin"></div>
-            <div class="text">I'm currently stretching my wings in coding <img src="assets/images/IMG_1133.PNG"></div>
+            <div class="text">I'm currently strengthining my coding skills <img src="assets/images/IMG_1133.PNG"></div>
         </article>
         </section>
         
 
         <!-- Sticky Notes Focused on Recent Projects -->
-        <section class="projects">
+        <section id="who-dunnit" class="projects is-full">
         <article class=" note sticky1">
             <div class="pin"></div>
             <div class="text"><a href="https://kristamarbury.github.io/CodeQuiz"></a>A site for any and all trivia nerds out there! <img src="./assets/images/codequiz.png"></div>
@@ -61,12 +74,12 @@
         </section>
 
         <!-- Sticky Notes To Connect with Me -->
-        <section clas="connections">
+        <section id="who-calls" clas="connect is-full">
         <article class="note sticky2">
             <div class="pin"></div>
-            <div class="text"><a href="mailto:kristamarbury2021@u.northwestern.edu"> Contact Me Here </a> </div>
+            <div class="text"><a href="mailto:laetaiustus@gmail.com"> Email Me Here </a> </div>
         </article>
-        <article class="note sticky2">
+        <article class="note sticky1">
             <div class="pin"></div>
             <div class="text">Thanks for dropping by!</div>
         </article>
