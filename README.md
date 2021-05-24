@@ -14,11 +14,6 @@ A web application that allows all who view it behold the works of K-Leigh! If yo
 
 There are no known bugs at this time.
 
-
-# License
-
-Copyright (c) 2021 Team One to Rule Them All
-
 # Contact Information
 
 Krista Marbury laetaiustus@gmail.com
