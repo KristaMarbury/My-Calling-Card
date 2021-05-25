@@ -16,7 +16,7 @@ header {
 
 button {
       align-self:center;
-      background:transparent;
+      background:burlywood;
       padding:1rem 1rem;
       margin:0 1rem;
       transition:all .5s ease;
