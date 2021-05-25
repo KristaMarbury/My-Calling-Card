@@ -5,33 +5,42 @@ body {
 
 .frame {
   display: flex;
+  flex-direction: column;
   padding: 50px;
 }
 
-.header {
-  display: flex;
+header {
   padding: 20px;
-  background-color: #2a607c;
   color: #ffffff;
 }
 
-.header nav {
-  display: inline-block;
+header nav {
+  /* display: inline-block; */
   padding-top: 15px;
   margin-right: 20px;
   font-size: 20px;
 }
 
-.aboutme {
-  display: flex;
- border: 1px solid #1A1A1A; 
+button {
+      align-self:center;
+      background:transparent;
+      padding:1rem 1rem;
+      margin:0 1rem;
+      transition:all .5s ease;
+      color:#41403E;
+      font-size:2rem;
+      letter-spacing:1px;
+      outline:none;
+      box-shadow: 20px 38px 34px -26px hsla(0,0%,0%,.2);
+      border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
 }
 
-.projects {
-  display: flex;
- border: 1px solid #1A1A1A; 
-}
+ button:hover{
+         box-shadow:2px 8px 4px -6px hsla(0,0%,0%,.3);
+      }
 
+.aboutme, 
+.projects,
 .connect {
   display: flex;
  border: 1px solid #1A1A1A; 
@@ -55,7 +64,7 @@ div img {
 
 .text {
   margin: 10px;
-  font-family: Indie Flower, cursive;
+  font-family: 'Patrick Hand SC', cursive;
   color: #1A1A1A;
 }
 
