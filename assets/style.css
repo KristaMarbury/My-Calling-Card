@@ -48,6 +48,12 @@ div img {
   border: 1px solid rgba(0, 0, 0, 0.25);
 }
 
+h1 {
+  font-family: 'Patrick Hand Sc', cursive;
+  font-size: 3rem; 
+  color: black;
+}
+
 .text {
   margin: 10px;
   font-family: 'Patrick Hand SC', cursive;
@@ -60,6 +66,24 @@ div img {
   -webkit-transform: rotate(3.5deg);
   -moz-transform: rotate(3.5deg);
   background-color: #707020;
+}
+
+.pgkhw1 {
+  background: url(./images/codequiz.png) no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.project1 {
+  background: url(./images/teamoneLOTR.png) no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.dayplanner {
+  background: url(./images/workdaysched.png) no-repeat;
+  background-size: cover;
+  background-position: center center;
 }
 
 .sticky1 {
