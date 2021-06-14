@@ -1,5 +1,5 @@
 body {
-  background: url(./images/corkboard1.gif) no-repeat;
+  background: url(./images/greenchalkboard.jpeg) no-repeat;
   background-size: cover;
 }
 
@@ -16,7 +16,7 @@ header {
 
 button {
       align-self:center;
-      background:burlywood;
+      background: lightgrey;
       padding:1rem 1rem;
       margin:0 1rem;
       transition:all .5s ease;
