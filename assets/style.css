@@ -1,5 +1,5 @@
 body {
-  background: url(./images/corkboard2.jpeg) no-repeat;
+  background: url(./images/borderless-corkboard.jpeg) no-repeat;
   background-size: cover;
 }
 
@@ -36,6 +36,9 @@ div img {
   width: 10rem;
   height: 10rem;
 }
+
+/* .card {
+} */
 
 .note {
   width: 15rem;
