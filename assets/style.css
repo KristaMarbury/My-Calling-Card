@@ -11,7 +11,6 @@ body {
 
 header {
   padding: 20px;
-  /* justify-content: space-between; */
 }
 
 button {
@@ -37,8 +36,15 @@ div img {
   height: 10rem;
 }
 
-/* .card {
-} */
+.projects {
+  display: flex;
+  justify-content: space-between;
+}
+
+.onesie {
+  display: flex;
+  flex-wrap: wrap;
+}
 
 .note {
   width: 15rem;
