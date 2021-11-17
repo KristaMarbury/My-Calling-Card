@@ -1,0 +1,23 @@
+{
+  "name": "My-Calling-Card",
+  "version": "1.0.0",
+  "description": "Built by Krista (K-Leigh) Marbury",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KristaMarbury/My-Calling-Card.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KristaMarbury/My-Calling-Card/issues"
+  },
+  "homepage": "https://github.com/KristaMarbury/My-Calling-Card#readme",
+  "dependencies": {
+    "compression": "^1.7.4"
+  }
+}
